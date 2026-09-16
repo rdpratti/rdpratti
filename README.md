@@ -4,7 +4,7 @@
 **rdpratti/rdpratti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am the principal consultant of DePratti Data Consultants
+<br>I am a retired Cigna Enterprise Data Scientist
+<br>I am a published researcher in Computer and Data Science. <br>I am currently examining how BERT and Generative LLMs can improve healthcare outcomes
+<br>I am an adjunct professor and speaker in AI, data management, and big data topics
+<br>I received a Computer Science MS from RPI in 2008
+<br>I received a Data Science MS from CCSU in 2024
